@@ -1,6 +1,6 @@
 //BEGINNER LEVEL : PROBLEM -1 
 
-// declaring the variablew upto which we need the addtion and taking the input from the user
+// declaring the variable upto which we need the addtion and taking the input from the user
 const inputParameter = parseInt(prompt("Enter a Value", "0"), 10);
 
 // declaring a function and calculating the sum upto n places
